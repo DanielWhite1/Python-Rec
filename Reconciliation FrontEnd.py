@@ -2,7 +2,7 @@ import openpyxl
 import tkinter
 from tkinter.filedialog import askopenfilename
 
-#Sets Tkinter
+#Sets Tkinter test
 root = tkinter.Tk()
 #Removes root window to allow user access to file input
 root.withdraw()
